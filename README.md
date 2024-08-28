@@ -1,0 +1,2 @@
+# js-practice-
+pratice code 
